@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "KIAALAP"
+    }
+  },
+  "defaultProject": "KIAALAP",
+  "cli": {
+    "analytics": "17a40dfa-b844-46a2-b29b-42bb5e5d0ed6"
+  }
 }
